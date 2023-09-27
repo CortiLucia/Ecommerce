@@ -140,39 +140,6 @@ main {
   color: var(--color-blaco);
 }
 
-/*detalle*/
-
-.productoClick .producto {
-  display: grid;
-  width: 100%;
-  justify-content: space-evenly;
-  padding: 1rem;
-  grid-template-areas:
-    "n  n" 
-    "i  d"
-    "v  p"
-  ;
-}
-
-.productoClick .producto .nombre {
-  grid-area: n;
-}
-
-.productoClick .producto .descripcion {
-  grid-area: d;
-}
-
-.productoClick .producto .imagen {
-  grid-area: i;
-}
-
-.productoClick .producto .puntuacion {
-  grid-area: p;
-}
-
-.productoClick .producto .volver {
-  grid-area: v;
-}
 /**carrito**/
 
 .contenedor-carrito {
