@@ -13,12 +13,15 @@
   }
 
 body {
+    display: flex;
+    height: 100vh;
+    padding: 3rem;
     background-image: url(../imgs/fondo-mc.jpg);
 }
 
 .productoClick {
   background-color: var(--color-blanco);
-  margin: 3rem;
+  margin: auto;
   border-radius: 2rem;
 }
 
@@ -69,10 +72,16 @@ h3 {
 }
 
 .volver {
+    color: var(--color-productos);
+    display: flex;
+    align-items: center;
     text-decoration: none;
     margin-top: 10px;
+    gap: 10px;
+    border: 0;
     padding-left: 2rem;
-    font-size: 1.2rem;
+    font-weight: 500;
+    font-size: 0.95rem;
 }
 
 

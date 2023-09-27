@@ -12,7 +12,7 @@ window.addEventListener("load", function () {
         <p class="puntuacion">Condición ${producto.puntuacion}</p>
         <img class="imagen" src="${producto.imgs}" alt="${producto.nombre}">
         <p class="descripcion">${producto.descripcion}</p>
-        <a class="volver" href="./index.html">Volver</a>
+        <a class="volver" href="./index.html"><i class="fa-solid fa-circle-arrow-left"></i>Volver</a>
     `;
     mostrarProducto.append(div);
   }
