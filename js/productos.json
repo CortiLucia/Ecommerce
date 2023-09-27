@@ -4,7 +4,7 @@
     "nombre": "Sres. Cara de papa",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/sr-sra-cara-de-papa-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -16,7 +16,7 @@
     "nombre": "Slinky",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/slinky-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -28,7 +28,7 @@
     "nombre": "Marciano",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/marciano-mc.png",
 
     "categoria": {
@@ -41,7 +41,7 @@
     "nombre": "Buzz Lightyear",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -53,7 +53,7 @@
     "nombre": "Rex",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/rex-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -65,7 +65,7 @@
     "nombre": "Rc",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/rc-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -77,7 +77,7 @@
     "nombre": "Robot",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/robot-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -89,7 +89,7 @@
     "nombre": "Barbie Guia",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/barbie-guia-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -101,7 +101,7 @@
     "nombre": "Bo-peep",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/bo-peep-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -113,7 +113,7 @@
     "nombre": "Jessie",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/jessie-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -125,7 +125,7 @@
     "nombre": "Zurg",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -149,7 +149,7 @@
     "nombre": "Tiro al Blanco",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -161,7 +161,7 @@
     "nombre": "Oloroso Pete",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -170,10 +170,10 @@
   },
   {
     "id": 15,
-    "nombre": "Zurg",
+    "nombre": "Bob",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
@@ -183,13 +183,157 @@
   
   {
     "id": 16,
-    "nombre": "Zurg",
+    "nombre": "Elastigirl",
     "precio": 1000.88,
     "descripcion": "",
-    "puntuacion":"",
+    "puntuacion":"⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
-      "nombre": "Los Tres Mosqueteros",
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Violeta",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Dash",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Jack-Jack",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Increible",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "Frozono",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "Sindrome",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los Increibles",
+      "id": "losincreibles"
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "Mickey",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "categoria": {
+      "nombre": "Los tres mosqueteros",
+      "id": "mosqueteros"
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "Donald",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los tres mosqueteros",
+      "id": "mosqueteros"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Googy",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los tres mosqueteros",
+      "id": "mosqueteros"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Minnie",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los tres mosqueteros",
+      "id": "mosqueteros"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Daisy",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los tres mosqueteros",
+      "id": "mosqueteros"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Pedro",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+     "categoria": {
+      "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
   }
