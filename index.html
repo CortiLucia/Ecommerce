@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/98194b4800.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <aside>
+        <header>
+          <h1 class="titulo">Toy Store</h1>
+        </header>
+        <nav>
+          <ul class="menu">
+            <li>
+              <button id="todos" class="boton-menu boton-productos active">
+                <i class="fa-solid fa-circle-arrow-right"></i>Todos los productos</button
+              >
+            </li>
+            <li>
+              <button id="toystory" class="boton-menu boton-productos">
+                <i class="fa-solid fa-circle-arrow-right"></i>Toy Story</button
+              >
+            </li>
+            <li>
+              <button id="losincreibles" class="boton-menu boton-productos">
+                <i class="fa-solid fa-circle-arrow-right"></i>Los Increibles</button
+              >
+            </li>
+            <li>
+              <button id="mosqueteros" class="boton-menu boton-productos">
+                <i class="fa-solid fa-circle-arrow-right"></i>Los 3 mosqueteros</button
+              >
+            </li>
+            <li>
+              <a class="boton-menu boton-carrito" href="./carrito.html"
+                ><i class="fa-solid fa-cart-shopping"></i>
+                Carrito<span id="numero" class="numero">0</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+      <main>
+        <h2 class="todos-productos" id="todos-productos">Todos los productos</h2>
+        <div id="contenedor-productos" class="contenedor-productos">
+          
+        </div>
+      </main>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
