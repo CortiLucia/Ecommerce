@@ -3,8 +3,8 @@
     "id": 1,
     "nombre": "Sres. Cara de papa",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/sr-sra-cara-de-papa-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -15,8 +15,8 @@
     "id": 2,
     "nombre": "Slinky",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/slinky-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -27,8 +27,8 @@
     "id": 3,
     "nombre": "Marciano",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/marciano-mc.png",
 
     "categoria": {
@@ -40,8 +40,8 @@
     "id": 4,
     "nombre": "Buzz Lightyear",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -52,8 +52,8 @@
     "id": 5,
     "nombre": "Rex",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/rex-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -64,8 +64,8 @@
     "id": 6,
     "nombre": "Rc",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/rc-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -76,8 +76,8 @@
     "id": 7,
     "nombre": "Robot",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/robot-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -88,8 +88,8 @@
     "id": 8,
     "nombre": "Barbie Guia",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/barbie-guia-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -100,8 +100,8 @@
     "id": 9,
     "nombre": "Bo-peep",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/bo-peep-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -112,8 +112,8 @@
     "id": 10,
     "nombre": "Jessie",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/jessie-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -124,8 +124,8 @@
     "id": 11,
     "nombre": "Zurg",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -136,8 +136,8 @@
     "id": 12,
     "nombre": "Woody",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/woody-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -148,8 +148,8 @@
     "id": 13,
     "nombre": "Tiro al Blanco",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -160,8 +160,8 @@
     "id": 14,
     "nombre": "Oloroso Pete",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -172,21 +172,21 @@
     "id": 15,
     "nombre": "Bob",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
   },
-  
+
   {
     "id": 16,
     "nombre": "Elastigirl",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
@@ -197,10 +197,10 @@
     "id": 17,
     "nombre": "Violeta",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -209,10 +209,10 @@
     "id": 18,
     "nombre": "Dash",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -221,10 +221,10 @@
     "id": 19,
     "nombre": "Jack-Jack",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -233,10 +233,10 @@
     "id": 20,
     "nombre": "Increible",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -245,10 +245,10 @@
     "id": 21,
     "nombre": "Frozono",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -257,10 +257,10 @@
     "id": 22,
     "nombre": "Sindrome",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
     }
@@ -269,8 +269,8 @@
     "id": 23,
     "nombre": "Mickey",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
@@ -281,10 +281,10 @@
     "id": 24,
     "nombre": "Donald",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
@@ -293,10 +293,10 @@
     "id": 16,
     "nombre": "Googy",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
@@ -305,10 +305,10 @@
     "id": 16,
     "nombre": "Minnie",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
@@ -317,10 +317,10 @@
     "id": 16,
     "nombre": "Daisy",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
@@ -329,10 +329,10 @@
     "id": 16,
     "nombre": "Pedro",
     "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "puntuacion": "⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
-     "categoria": {
+    "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
     }
