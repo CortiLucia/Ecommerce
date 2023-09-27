@@ -7,7 +7,7 @@
 
 html {
   --color-gris: #606060;
-  --color-blaco: #ececec;
+  --color-blanco: #ececec;
   --color-gris-claro: #ababab;
   --color-productos: #629c87;
 }
@@ -43,7 +43,7 @@ aside {
 }
 
 main {
-  background-color: var(--color-blaco);
+  background-color: var(--color-blanco);
   margin: 3rem;
   margin-left: 0;
   border-radius: 2rem;
@@ -53,7 +53,7 @@ main {
 .titulo {
   font-weight: 500;
   font-size: 1.8rem;
-  color: var(--color-blaco);
+  color: var(--color-blanco);
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -70,7 +70,7 @@ main {
   gap: 1rem;
   background-color: transparent;
   border: 0;
-  color: var(--color-blaco);
+  color: var(--color-blanco);
   cursor: pointer;
   padding: 0.75rem;
   font-weight: 500;
@@ -79,7 +79,7 @@ main {
 }
 
 .boton-menu.active {
-  background-color: var(--color-blaco);
+  background-color: var(--color-blanco);
   color: black;
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
@@ -111,7 +111,7 @@ main {
 }
 
 .producto-detalles {
-  color: var(--color-blaco);
+  color: var(--color-blanco);
   background-color: var(--color-productos);
   padding: 0.5rem;
   border-radius: 1rem;
@@ -128,16 +128,16 @@ main {
   color: var(--color-productos);
   border: 0;
   border-radius: 1rem;
-  border: 1px solid var(--color-blaco);
+  border: 1px solid var(--color-blanco);
   padding: 0.25rem;
-  background-color: var(--color-blaco);
+  background-color: var(--color-blanco);
   text-transform: uppercase;
   cursor: pointer;
 }
 
 .producto-agregar:hover {
   background-color: var(--color-productos);
-  color: var(--color-blaco);
+  color: var(--color-blanco);
 }
 
 /**carrito**/

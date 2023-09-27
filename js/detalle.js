@@ -9,11 +9,11 @@ window.addEventListener("load", function () {
     div.classList.add("producto");
     div.innerHTML = `
         <h3 class="nombre">${producto.nombre}</h3>
-        <p class="puntuacion">${producto.puntuacion}</p>
+        <p class="puntuacion">Condición ${producto.puntuacion}</p>
         <img class="imagen" src="${producto.imgs}" alt="${producto.nombre}">
         <p class="descripcion">${producto.descripcion}</p>
         <a class="volver" href="./index.html">Volver</a>
     `;
     mostrarProducto.append(div);
   }
-});
+});s
