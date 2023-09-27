@@ -1,66 +1,6 @@
 [
   {
     "id": 1,
-    "nombre": "Woody",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"⭐⭐",
-    "imgs": "./imgs/Toy Story/woody-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 2,
-    "nombre": "Buzz Lightyear",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 3,
-    "nombre": "Jessie",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/jessie-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 4,
-    "nombre": "Tiro al Blanco",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 5,
-    "nombre": "Bo-peep",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/bo-peep-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 6,
     "nombre": "Sres. Cara de papa",
     "precio": 1000.88,
     "descripcion": "",
@@ -72,7 +12,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 2,
     "nombre": "Slinky",
     "precio": 1000.88,
     "descripcion": "",
@@ -84,55 +24,7 @@
     }
   },
   {
-    "id": 8,
-    "nombre": "Rex",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/rex-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 9,
-    "nombre": "Rc",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/rc-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 10,
-    "nombre": "Robot",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/robot-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 11,
-    "nombre": "Barbie Guia",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/barbie-guia-mc.png",
-    "categoria": {
-      "nombre": "Toy Story",
-      "id": "toystory"
-    }
-  },
-  {
-    "id": 12,
+    "id": 3,
     "nombre": "Marciano",
     "precio": 1000.88,
     "descripcion": "",
@@ -145,12 +37,120 @@
     }
   },
   {
-    "id": 13,
-    "nombre": "Oloroso Pete",
+    "id": 4,
+    "nombre": "Buzz Lightyear",
     "precio": 1000.88,
     "descripcion": "",
     "puntuacion":"",
-    "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
+    "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Rex",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/rex-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Rc",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/rc-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Robot",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/robot-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Barbie Guia",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/barbie-guia-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Bo-peep",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/bo-peep-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Jessie",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/jessie-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Zurg",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Woody",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"⭐⭐",
+    "imgs": "./imgs/Toy Story/woody-mc.png",
+    "categoria": {
+      "nombre": "Toy Story",
+      "id": "toystory"
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Tiro al Blanco",
+    "precio": 1000.88,
+    "descripcion": "",
+    "puntuacion":"",
+    "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
     "categoria": {
       "nombre": "Toy Story",
       "id": "toystory"
@@ -158,11 +158,11 @@
   },
   {
     "id": 14,
-    "nombre": "Zurg",
+    "nombre": "Oloroso Pete",
     "precio": 1000.88,
     "descripcion": "",
     "puntuacion":"",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
     "categoria": {
       "nombre": "Toy Story",
       "id": "toystory"
@@ -180,20 +180,9 @@
       "id": "losincreibles"
     }
   },
+  
   {
     "id": 16,
-    "nombre": "Zurg",
-    "precio": 1000.88,
-    "descripcion": "",
-    "puntuacion":"",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
-    "categoria": {
-      "nombre": "Los Increibles",
-      "id": "losincreibles"
-    }
-  },
-  {
-    "id": 17,
     "nombre": "Zurg",
     "precio": 1000.88,
     "descripcion": "",

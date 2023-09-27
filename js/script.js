@@ -29,10 +29,9 @@ function cargarProductos(productosElegidos) {
 
     let redirect = document.createElement("button");
     redirect.innerHTML = `
-    <button class="redirect" type="button">
-        <img class="producto-imagen" src="${producto.imgs}" alt="${producto.nombre}" />
-        </button> `;
-
+      <img class="producto-imagen" src="${producto.imgs}" alt="${producto.nombre}" />
+    `;
+    redirect.classList="redirect"
     div.prepend(redirect);
 
     redirect.addEventListener("click", () => {
@@ -109,6 +108,7 @@ function agregarAlCarrito(e) {
     "productos-en-carrito",
     JSON.stringify(productosEnCarrito)
   );
+
 }
 
 function actualizarNumero() {
