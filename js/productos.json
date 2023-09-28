@@ -39,7 +39,7 @@
     "id": 4,
     "nombre": "Buzz Lightyear",
     "precio": 1000,
-    "descripcion": "Buzz Lightyear, McDonald's 1999. El comandante espacial tiene dos funciones, posee un boton en la parte tracera para que este pueda abrir sus alas (mecanismo funcionando) y en la parte de abajo tiene un agujero que sirve para poder engancharlo a Rc junto con Rex. Por el paso de los años el plastico del casco se fue opacando, posee detalles de pintura",
+    "descripcion": "Buzz Lightyear, McDonald's 1999. El comandante espacial tiene dos funciones, posee un boton en la parte tracera para que este pueda abrir sus alas (mecanismo funcionando) y en la parte de abajo tiene un agujero que sirve para poder engancharlo a RC junto con Rex. Figura en muy buen estado, por el paso de los años el plastico del casco se fue opacando, posee detalles de pintura.",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
     "categoria": {
@@ -51,7 +51,7 @@
     "id": 5,
     "nombre": "Rex",
     "precio": 1200,
-    "descripcion": "Rex, McDonald's 1999",
+    "descripcion": "Rex, McDonald's 1999. Rex posee un mecanismo en la parte trasera de la cabeza, una mini palanquita que hace que pueda abrir y cerrar la boca, tambien posee 2 agujeros en las patitas que sirven de enganche para poder ponerlo en el aleron de RC. Figura en excelentes condiciones. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/rex-mc.png",
     "categoria": {
@@ -63,7 +63,7 @@
     "id": 6,
     "nombre": "Rc",
     "precio": 1500,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "RC McDonald's 1999. Auto a retrofriccion (funcionando), posee tres encastres, dos de ellos se encuentran en el aleron para que podamos poner a Rex, el otro encastre se encuentra en la parte de adelante para que podamos poner a Buzz Lightyear en el. Figura en excelente estado, dificil de conseguir con todas sus calcomanias.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/rc-mc.png",
     "categoria": {
@@ -75,7 +75,7 @@
     "id": 7,
     "nombre": "Robot",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Robot, McDonald's 1999. Robot posee un mecanismo de refrofriccion que al hacerlo funcionar la cabeza le giraba. Bastante dificil de conseguir con sus calcomanias, figura en muy buen estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/robot-mc.png",
     "categoria": {
@@ -87,8 +87,8 @@
     "id": 8,
     "nombre": "Barbie Guia",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
-    "puntuacion": "⭐⭐⭐⭐⭐",
+    "descripcion": "Barbie Guia, McDonald's 1999. El auto de Barbie guia posee un mecanismo que al hacerlo rodar tanto el brazo derecho y la cabeza de barbie se mueven. Figura en muy buenas condiciones, pequeños detalles de pintura.",
+    "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/barbie-guia-mc.png",
     "categoria": {
       "nombre": "Toy Story",
@@ -97,9 +97,9 @@
   },
   {
     "id": 9,
-    "nombre": "Bo-peep",
+    "nombre": "Betty",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Betty, McDonald's 1999, ",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/bo-peep-mc.png",
     "categoria": {
