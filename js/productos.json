@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "Sres. Cara de papa",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Sr y Sra Cara de papa, McDonald's 1999. El muñeco cuenta con un mecanismo a cuerda (no funciona) el cual se encuentra en la oreja de la señora cara de papa, al darle cuerda realizaban un movimiento como si estuviesen caminado. La figura se encuentra en muy buen estado, con pequeños detalles de pintura por el paso de los años.",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/sr-sra-cara-de-papa-mc.png",
     "categoria": {
@@ -15,7 +15,7 @@
     "id": 2,
     "nombre": "Slinky",
     "precio": 1200,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Slinky, McDonald's 1999. Slinky cuenta con movimiento en cabeza, orejas, colita y una sopapas en las paitas traceras, posee esto para poder estirar el resorte y que este quede de la manera que uno quiera. Una figura dificil de encontrar con su resorte sano, la misma se encuenta en muy estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/slinky-mc.png",
     "categoria": {
@@ -27,7 +27,7 @@
     "id": 3,
     "nombre": "Marciano",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Marciano, McDonald's 1999. La funcion del marciano es de un trompo, se hace friccion contra una superficie plana y se suelta para que este empiece a girar. funciona a la perfeccion, dificil de encontrar con su antenita sana, posee pequeños detalles de pintura.",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/marciano-mc.png",
     "categoria": {
@@ -39,7 +39,7 @@
     "id": 4,
     "nombre": "Buzz Lightyear",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Buzz Lightyear, McDonald's 1999. El comandante espacial tiene dos funciones, posee un boton en la parte tracera para que este pueda abrir sus alas (mecanismo funcionando) y en la parte de abajo tiene un agujero que sirve para poder engancharlo a Rc junto con Rex. Por el paso de los años el plastico del casco se fue opacando, posee detalles de pintura",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/buzz-lightyear-mc.png",
     "categoria": {
@@ -51,7 +51,7 @@
     "id": 5,
     "nombre": "Rex",
     "precio": 1200,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Rex, McDonald's 1999",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/rex-mc.png",
     "categoria": {
