@@ -1,7 +1,7 @@
 window.addEventListener("load", function () {
   const producto = JSON.parse(localStorage.getItem("detalleProducto"));
   const mostrarProducto = document.querySelector("#productoClick");
-  console.log(mostrarProducto);
+
   cargarProductos();
 
   function cargarProductos() {
@@ -16,4 +16,4 @@ window.addEventListener("load", function () {
     `;
     mostrarProducto.append(div);
   }
-});s
+});

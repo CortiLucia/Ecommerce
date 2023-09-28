@@ -99,7 +99,7 @@
     "id": 9,
     "nombre": "Betty",
     "precio": 1000,
-    "descripcion": "Betty, McDonald's 1999, ",
+    "descripcion": "Betty, McDonald's 1999. Betty posee una ruedita de goma en la parte de abajo, cuando uno la mueve hacia delante o detras las ovejitas giran al rededor de ella (mecanismo funcionando). Figura en excelentes condiciones.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/bo-peep-mc.png",
     "categoria": {
@@ -111,7 +111,7 @@
     "id": 10,
     "nombre": "Jessie",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Jessie, McDonald's 1999. Jessie tiene dos pestañas en las piernas las cuales sirven para encastrarla a Tiro al blanco. Posee unos pantalones de gamuza en excelente estado al igual que la figura.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/jessie-mc.png",
     "categoria": {
@@ -123,7 +123,7 @@
     "id": 11,
     "nombre": "Zurg",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Zurg, McDonald's 1999. El emperador Zurg posee una pestaña en el costado la cual sirve para poder hacer girar su arma y hacer como que lanza sus misiles. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -135,7 +135,7 @@
     "id": 12,
     "nombre": "Woody",
     "precio": 1200,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Woody, McDonald's 1999, Woody al igual que Jessie solo posee las pestañas en las piernas que sirven para encastrarlo en Tiro al blanco. Tiene un chaleco de gamuza en excelent estado, con pequeños detalles de pintura, la figura eta en excelente estado. ",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/woody-mc.png",
     "categoria": {
@@ -147,7 +147,7 @@
     "id": 13,
     "nombre": "Tiro al Blanco",
     "precio": 3000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Tiro al Blanco, McDonald's 1999 USA. Esta es la version del tiro al blanco de USA, el cual si le apretas la base Tiro al blanco se 'desarma', al igual del que salio en Latinoamerica posee 2 agujeros para que podamos encastrar a Jessie y Woddy en el. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
     "categoria": {
@@ -157,9 +157,9 @@
   },
   {
     "id": 14,
-    "nombre": "Oloroso Pete",
+    "nombre": "El Capataz",
     "precio": 1200,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "El Capataz, McDonald's 1999. El Capatas u Oloroso Pit posee un boton en el barril el cual si lo apretamos el muñeco salta. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
     "categoria": {
@@ -169,9 +169,9 @@
   },
   {
     "id": 15,
-    "nombre": "Bob",
+    "nombre": "Mr. Increible",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Mr Increible, McDonald's 2004. Mr Increible / Bob posee en la espalda una palanquita que al moverla de lado a lado podemo hacerque abra y cierre los brazos. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -184,7 +184,7 @@
     "id": 16,
     "nombre": "Elastigirl",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Elastigirl, McDonald's 2004. Elastigirl posee en la cintura una goma que la podemos usar para estirar o girar. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -196,7 +196,7 @@
     "id": 17,
     "nombre": "Violeta",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Violeta, McDonald's 2004. En la base del muñeco podemos ver una planca que al apretarla el tubito de plastico que rodea a Violeta empieza a girar y dar luz. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -208,7 +208,7 @@
     "id": 18,
     "nombre": "Dash",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Dash, McDonald's 2004. Dash posee una cuerda en uno de los costados que al darle cuerda y ponerlo en el circulo azul, empieza a rodar. Figura en excelente estado",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -220,7 +220,7 @@
     "id": 19,
     "nombre": "Jack-Jack",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Jack-Jack McDonald's 2004. Jack-Jack posee en la espalda una cuerda que al girarla el muñeco empieza a temblar. Figura esta en excelente estado, dificil de conseguir sin detalles de pintura en la nariz. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -232,7 +232,7 @@
     "id": 20,
     "nombre": "Increible",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Increible, McDonald's 2004. El auto de los increibles es a retrofriccion que al rodarlo para atras y soltarlo, cuando lo hacemos chocar contra algo se abre. Figura en exelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -244,7 +244,7 @@
     "id": 21,
     "nombre": "Frozono",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Frozono, McDonald's 2004. La figura de fronozo se divide en dos partes, la parte del muñeco de frozono que tiene 2 agujeros en la base para poder encastrarlo en la segunda parte que es la bola para poder hacerlo rodar. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -256,7 +256,7 @@
     "id": 22,
     "nombre": "Sindrome",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Sindrome, McDonald's 2004. Sindrome posee una cuerda en la parte de atras que al girarla empieza a temblar el muñeco. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -268,7 +268,7 @@
     "id": 23,
     "nombre": "Mickey",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Mickey, McDonald's 2004. Mickey es una botella, uno le desenrosca el sombreo y puede llenar la botella. Figura en excelente estado. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -280,7 +280,7 @@
     "id": 24,
     "nombre": "Donald",
     "precio": 800,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Donald McDonald's 2004. Donalds es un pasa imagenes, uno al bajarle la mano las imagenes del centro van cambiando. Fugura en muy buen estado.",
     "puntuacion": "⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -292,7 +292,7 @@
     "id": 16,
     "nombre": "Goofy",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Goofy, McDonald's 2004. Goofy es un silbato, al soplar de la parte del sombrer y estirar la parte de los zapatos podes hacer distintos ruidos. Figura en escelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -304,7 +304,7 @@
     "id": 16,
     "nombre": "Minnie",
     "precio": 600,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Minnie, McDonald's 2004. Minnie es un caleidoscopio, en la parte de la corona tiene un agujero para que uno mire por ahi y en la parte de la parte de abajo de la pollera podemos ver las imagenes. Figuraen buen estado, posee detalles de pintura en la corona.",
     "puntuacion": "⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -316,7 +316,7 @@
     "id": 16,
     "nombre": "Daisy",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Daysi McDonald's 2004. Daysi es un abanico, si uno tira para arriba del moño de tela que tiene en la cabeza podemos abrir el abanico. Fugira en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {
@@ -328,7 +328,7 @@
     "id": 16,
     "nombre": "Pedro",
     "precio": 1000,
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quas ratione quis at necessitatibus aut! Modi quo et, blanditiis, qui quod repellendus adipisci tempore culpa ullam molestias commodi ut nostrum?",
+    "descripcion": "Pedro, McDonald's 2004. Pedro posee en la mano un agujero para poder poner un lapiz y en la parte de la armadura una tapita que al abrila sirve para guardar papelitos para dibujar. Figura en excelente estado. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
     "imgs": "./imgs/Toy Story/zurg-mc.png",
     "categoria": {

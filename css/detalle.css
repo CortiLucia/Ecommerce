@@ -69,6 +69,7 @@ h3 {
 .descripcion {
     font-size: 1.2rem;
     padding: 1rem;
+    max-width: 500px;
 }
 
 .volver {
