@@ -173,7 +173,7 @@
     "precio": 1000,
     "descripcion": "Mr Increible, McDonald's 2004. Mr Increible / Bob posee en la espalda una palanquita que al moverla de lado a lado podemo hacerque abra y cierre los brazos. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/mr-increible-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -186,7 +186,7 @@
     "precio": 1000,
     "descripcion": "Elastigirl, McDonald's 2004. Elastigirl posee en la cintura una goma que la podemos usar para estirar o girar. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/elastigirl-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -198,7 +198,7 @@
     "precio": 1000,
     "descripcion": "Violeta, McDonald's 2004. En la base del muñeco podemos ver una planca que al apretarla el tubito de plastico que rodea a Violeta empieza a girar y dar luz. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/violeta-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -210,7 +210,7 @@
     "precio": 800,
     "descripcion": "Dash, McDonald's 2004. Dash posee una cuerda en uno de los costados que al darle cuerda y ponerlo en el circulo azul, empieza a rodar. Figura en excelente estado",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/dash-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -222,7 +222,7 @@
     "precio": 1000,
     "descripcion": "Jack-Jack McDonald's 2004. Jack-Jack posee en la espalda una cuerda que al girarla el muñeco empieza a temblar. Figura esta en excelente estado, dificil de conseguir sin detalles de pintura en la nariz. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/jack-jack-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -234,7 +234,7 @@
     "precio": 800,
     "descripcion": "Increible, McDonald's 2004. El auto de los increibles es a retrofriccion que al rodarlo para atras y soltarlo, cuando lo hacemos chocar contra algo se abre. Figura en exelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/increible-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -246,7 +246,7 @@
     "precio": 800,
     "descripcion": "Frozono, McDonald's 2004. La figura de fronozo se divide en dos partes, la parte del muñeco de frozono que tiene 2 agujeros en la base para poder encastrarlo en la segunda parte que es la bola para poder hacerlo rodar. Figura en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/frozono-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -258,7 +258,7 @@
     "precio": 1000,
     "descripcion": "Sindrome, McDonald's 2004. Sindrome posee una cuerda en la parte de atras que al girarla empieza a temblar el muñeco. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los Increibles/sindrome-mc.png",
     "categoria": {
       "nombre": "Los Increibles",
       "id": "losincreibles"
@@ -270,7 +270,7 @@
     "precio": 1000,
     "descripcion": "Mickey, McDonald's 2004. Mickey es una botella, uno le desenrosca el sombreo y puede llenar la botella. Figura en excelente estado. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/mickey-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
@@ -282,7 +282,7 @@
     "precio": 800,
     "descripcion": "Donald McDonald's 2004. Donalds es un pasa imagenes, uno al bajarle la mano las imagenes del centro van cambiando. Fugura en muy buen estado.",
     "puntuacion": "⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/donald-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
@@ -294,7 +294,7 @@
     "precio": 1000,
     "descripcion": "Goofy, McDonald's 2004. Goofy es un silbato, al soplar de la parte del sombrer y estirar la parte de los zapatos podes hacer distintos ruidos. Figura en escelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/goofy-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
@@ -306,7 +306,7 @@
     "precio": 600,
     "descripcion": "Minnie, McDonald's 2004. Minnie es un caleidoscopio, en la parte de la corona tiene un agujero para que uno mire por ahi y en la parte de la parte de abajo de la pollera podemos ver las imagenes. Figuraen buen estado, posee detalles de pintura en la corona.",
     "puntuacion": "⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/minnie-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
@@ -318,7 +318,7 @@
     "precio": 1000,
     "descripcion": "Daysi McDonald's 2004. Daysi es un abanico, si uno tira para arriba del moño de tela que tiene en la cabeza podemos abrir el abanico. Fugira en excelente estado.",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/daisy-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
@@ -330,7 +330,7 @@
     "precio": 1000,
     "descripcion": "Pedro, McDonald's 2004. Pedro posee en la mano un agujero para poder poner un lapiz y en la parte de la armadura una tapita que al abrila sirve para guardar papelitos para dibujar. Figura en excelente estado. ",
     "puntuacion": "⭐⭐⭐⭐⭐",
-    "imgs": "./imgs/Toy Story/zurg-mc.png",
+    "imgs": "./imgs/Los 3 mosqueteros/pedro-mc.png",
     "categoria": {
       "nombre": "Los tres mosqueteros",
       "id": "mosqueteros"
