@@ -20,7 +20,6 @@
     text-decoration: none;
   }
   
-  /*index*/
   .container {
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -29,7 +28,7 @@
         rgba(0, 0, 0, 0.5) 0%,
         rgba(0, 0, 0, 0.5) 100%
       ),
-      url(./imgs/fondo-mc.jpg);
+      url(../imgs/fondo-mc.jpg);
   }
   
   aside {
@@ -57,6 +56,10 @@
     text-transform: uppercase;
     font-weight: bold;
   }
+
+  h2 {
+    color: var(--color-productos);
+  }
   
   .menu {
     display: flex;
@@ -80,7 +83,7 @@
   
   .boton-menu.active {
     background-color: var(--color-blaco);
-    color: black;
+    color: var(--color-productos);
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
   }
@@ -105,7 +108,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(171, 171, 171);
+    color: var(--color-blaco);
+    background-color: var(--color-productos);
+    margin-top: 1rem;
     padding: 0.5rem;
     padding-right: 1rem;
     border-radius: 1rem;
@@ -130,7 +135,8 @@
   
   .carrito-acciones-vaciar {
     border: 0;
-    background-color: var(--color-gris-claro);
+    color: var(--color-blaco);
+    background-color: var(--color-productos);
     padding: 0.75rem;
     border-radius: 1rem;
     text-transform: uppercase;
@@ -142,9 +148,11 @@
   }
   
   .carrito-acciones-total {
+    color: var(--color-productos);
     display: flex;
     gap: 1rem;
-    background-color: var(--color-gris-claro);
+    background-color: var(--color-blaco);
+    border: 2px solid var(--color-productos);
     padding: 0.75rem;
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
@@ -153,7 +161,8 @@
   
   .carrito-acciones-comprar {
     border: 0;
-    background-color: var(--color-gris);
+    color: var(--color-blaco);
+    background-color: var(--color-productos);
     padding: 0.75rem;
     text-transform: uppercase;
     cursor: pointer;

@@ -25,7 +25,7 @@ function cargarProductosCarrito() {
         producto.nombre
       }" />
         <div class="carrito-producto-titulo">
-          <small>titulo</small>
+          <small>Producto</small>
           <h3>${producto.nombre}</h3>
         </div>
         <div class="carrito-producto-cantidad">
@@ -77,3 +77,12 @@ function eliminarDelCarrito(e) {
     JSON.stringify(productosEnCarrito)
   );
 }
+
+/*vaciarCarrito.addEventListener("click", vaciarCarrito);
+
+function vaciarCarrito () {
+  productosEnCarrito.length = 0
+  localStorage.setItem("productos-en-carrito",JSON.stringify(productosEnCarrito)
+  );
+
+} */

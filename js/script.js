@@ -13,6 +13,8 @@ const todosProductos = document.querySelector("#todos-productos");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numero = document.querySelector("#numero");
 
+/*localStorage.clear();*/
+
 function cargarProductos(productosElegidos) {
   contenedorProductos.innerHTML = "";
 
