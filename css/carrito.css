@@ -117,8 +117,8 @@
   }
   
   .carrito-producto-imagen {
-    width: 2rem;
-    border-radius: 1rem;
+    width: 5rem;
+    padding-left: 2rem;
   }
   
   .carrito-producto-eliminar {
@@ -169,8 +169,15 @@
     border-top-right-radius: 1rem;
     border-bottom-right-radius: 1rem;
   }
+
+  .carrito-vacio {
+    margin: 1rem;
+    font-size: 1rem;
+    color: var(--color-productos);
+  }
   
   .ocultar {
+    
     display: none;
   }
   
