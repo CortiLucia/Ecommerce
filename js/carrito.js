@@ -46,6 +46,7 @@ function cargarProductosCarrito() {
         `;
       contenedorCarritoProductos.append(div);
     });
+    actualizarBotonEliminar();
   } else {
     contenedorCarritoVacio.classList.remove("ocultar");
     contenedorCarritoProductos.classList.add("ocultar");
@@ -67,7 +68,7 @@ function actualizarBotonEliminar() {
 function eliminarDelCarrito(e) {
   const idBoton = e.currentTarget.id;
   const index = productosEnCarrito.findIndex(
-    (producto) => producto.id === idBoton
+    (producto) => producto.id == idBoton
   );
   productosEnCarrito.splice(index, 1);
   cargarProductosCarrito();
