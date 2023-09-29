@@ -78,11 +78,11 @@ function eliminarDelCarrito(e) {
   );
 }
 
-/*vaciarCarrito.addEventListener("click", vaciarCarrito);
+vaciarCarrito.addEventListener("click", vaciarElCarrito);
 
-function vaciarCarrito () {
-  productosEnCarrito.length = 0
-  localStorage.setItem("productos-en-carrito",JSON.stringify(productosEnCarrito)
-  );
-
-} */
+function vaciarElCarrito() {
+  localStorage.clear();
+  contenedorCarritoProductos.innerHTML = "";
+  contenedorCarritoVacio.classList.remove("ocultar");
+  contenedorCarritoAcciones.classList.add("ocultar");
+}
