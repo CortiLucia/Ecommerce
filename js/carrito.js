@@ -4,16 +4,16 @@ productosEnCarrito = JSON.parse(productosEnCarrito);
 const contenedorCarritoVacio = document.querySelector("#carrito-vacio");
 const contenedorCarritoProductos = document.querySelector("#carrito-productos");
 const contenedorCarritoAcciones = document.querySelector("#carrito-acciones");
-const contenedorCarritoComprado = document.querySelector("#carrito-comprado");
 let botonEliminar = document.querySelectorAll(".carrito-producto-eliminar");
 const vaciarCarrito = document.querySelector(".carrito-acciones-vaciar");
+const contenedorTotal = document.querySelector("#total");
+const comprarProductos = document.querySelector("#carrito-acciones-comprar");
 
 function cargarProductosCarrito() {
   if (productosEnCarrito.length > 0) {
     contenedorCarritoVacio.classList.add("ocultar");
     contenedorCarritoProductos.classList.remove("ocultar");
     contenedorCarritoAcciones.classList.remove("ocultar");
-    contenedorCarritoComprado.classList.add("ocultar");
 
     contenedorCarritoProductos.innerHTML = "";
 
@@ -46,12 +46,13 @@ function cargarProductosCarrito() {
         `;
       contenedorCarritoProductos.append(div);
     });
+
     actualizarBotonEliminar();
+    actualizarTotal();
   } else {
     contenedorCarritoVacio.classList.remove("ocultar");
     contenedorCarritoProductos.classList.add("ocultar");
     contenedorCarritoAcciones.classList.add("ocultar");
-    contenedorCarritoComprado.classList.add("ocultar");
   }
 }
 
@@ -80,11 +81,27 @@ function eliminarDelCarrito(e) {
   cargarProductosCarrito();
 }
 
+function actualizarTotal() {
+  const totalCalculado = productosEnCarrito.reduce(
+    (acc, producto) => acc + producto.precio * producto.cantidad,
+    0
+  );
+  contenedorTotal.innerText = `$${totalCalculado}`;
+}
+
 vaciarCarrito.addEventListener("click", vaciarElCarrito);
 
 function vaciarElCarrito() {
   localStorage.clear();
-  productosEnCarrito=[]
+  productosEnCarrito = [];
   cargarProductosCarrito();
+}
 
+comprarProductos.addEventListener("click", comprar);
+
+function comprar() {
+  localStorage.clear();
+  productosEnCarrito = [];
+  cargarProductosCarrito();
+  setTimeout(()=>alert('Muchas gracias por su compra'))
 }
