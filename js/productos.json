@@ -15,7 +15,7 @@
     "id": 2,
     "nombre": "Slinky",
     "precio": 1200,
-    "descripcion": "Slinky, McDonald's 1999. Slinky cuenta con movimiento en cabeza, orejas, colita y una sopapas en las paitas traceras, posee esto para poder estirar el resorte y que este quede de la manera que uno quiera. Una figura dificil de encontrar con su resorte sano, la misma se encuenta en muy estado.",
+    "descripcion": "Slinky, McDonald's 1999. Slinky cuenta con movimiento en cabeza, orejas, colita y una sopapas en las patitas traceras, posee esto para poder estirar el resorte y que este quede de la manera que uno quiera. Una figura dificil de encontrar con su resorte sano, la misma se encuenta en muy estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Toy Story/slinky-mc.png",
     "categoria": {
@@ -75,7 +75,7 @@
     "id": 7,
     "nombre": "Robot",
     "precio": 800,
-    "descripcion": "Robot, McDonald's 1999. Robot posee un mecanismo de refrofriccion que al hacerlo funcionar la cabeza le giraba. Bastante dificil de conseguir con sus calcomanias, figura en muy buen estado.",
+    "descripcion": "Robot, McDonald's 1999. Robot posee un mecanismo a refrofriccion que al hacerlo funcionar la cabeza le giraba. Bastante dificil de conseguir con sus calcomanias, figura en muy buen estado.",
     "puntuacion": 4,
     "imgs": "./imgs/Toy Story/robot-mc.png",
     "categoria": {
@@ -135,7 +135,7 @@
     "id": 12,
     "nombre": "Woody",
     "precio": 1200,
-    "descripcion": "Woody, McDonald's 1999, Woody al igual que Jessie solo posee las pestañas en las piernas que sirven para encastrarlo en Tiro al blanco. Tiene un chaleco de gamuza en excelent estado, con pequeños detalles de pintura, la figura eta en excelente estado. ",
+    "descripcion": "Woody, McDonald's 1999, Woody al igual que Jessie solo posee las pestañas en las piernas que sirven para encastrarlo en Tiro al blanco. Tiene un chaleco de gamuza en excelente estado, con pequeños detalles de pintura, la figura esta en excelente estado. ",
     "puntuacion": 4,
     "imgs": "./imgs/Toy Story/woody-mc.png",
     "categoria": {
@@ -147,7 +147,7 @@
     "id": 13,
     "nombre": "Tiro al Blanco",
     "precio": 3000,
-    "descripcion": "Tiro al Blanco, McDonald's 1999 USA. Esta es la version del tiro al blanco de USA, el cual si le apretas la base Tiro al blanco se 'desarma', al igual del que salio en Latinoamerica posee 2 agujeros para que podamos encastrar a Jessie y Woddy en el. Figura en excelente estado.",
+    "descripcion": "Tiro al Blanco, McDonald's 1999 USA. Esta es la version del tiro al blanco de USA, el cual si le apretas la base Tiro al blanco se 'desarma'. Al igual del que salio en Latinoamerica posee 2 agujeros para que podamos encastrar a Jessie y Woddy en el. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Toy Story/tiro-al-blanco-mc.png",
     "categoria": {
@@ -159,7 +159,7 @@
     "id": 14,
     "nombre": "El Capataz",
     "precio": 1200,
-    "descripcion": "El Capataz, McDonald's 1999. El Capatas u Oloroso Pit posee un boton en el barril el cual si lo apretamos el muñeco salta. Figura en excelente estado.",
+    "descripcion": "El Capataz, McDonald's 1999. El Capatas u Oloroso Pit posee un boton en el barril el cual si se lo presiona el muñeco salta. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Toy Story/oloroso-pete-mc.png",
     "categoria": {
@@ -171,7 +171,7 @@
     "id": 15,
     "nombre": "Mr. Increible",
     "precio": 1000,
-    "descripcion": "Mr Increible, McDonald's 2004. Mr Increible / Bob posee en la espalda una palanquita que al moverla de lado a lado podemo hacerque abra y cierre los brazos. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
+    "descripcion": "Mr Increible, McDonald's 2004. Mr Increible / Bob posee en la espalda una palanquita que al moverla de lado a lado podemos hacer que abra y cierre los brazos. En excelente estado ya que posee hasta el plastico original que traian las figuras dentro de la bolsa.",
     "puntuacion": 5,
     "imgs": "./imgs/Los Increibles/mr-increible-mc.png",
     "categoria": {
@@ -196,7 +196,7 @@
     "id": 17,
     "nombre": "Violeta",
     "precio": 1000,
-    "descripcion": "Violeta, McDonald's 2004. En la base del muñeco podemos ver una planca que al apretarla el tubito de plastico que rodea a Violeta empieza a girar y dar luz. Figura en excelente estado.",
+    "descripcion": "Violeta, McDonald's 2004. En la base del muñeco podemos ver una pestaña que al apretarla el tubito de plastico que rodea a Violeta empieza a girar y dar luz. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Los Increibles/violeta-mc.png",
     "categoria": {
@@ -208,7 +208,7 @@
     "id": 18,
     "nombre": "Dash",
     "precio": 800,
-    "descripcion": "Dash, McDonald's 2004. Dash posee una cuerda en uno de los costados que al darle cuerda y ponerlo en el circulo azul, empieza a rodar. Figura en excelente estado",
+    "descripcion": "Dash, McDonald's 2004. Dash posee una cuerda en uno de los costados que al girar de ella y ponerlo en el circulo azul, empieza a rodar. Figura en excelente estado",
     "puntuacion": 5,
     "imgs": "./imgs/Los Increibles/dash-mc.png",
     "categoria": {
@@ -220,7 +220,7 @@
     "id": 19,
     "nombre": "Jack-Jack",
     "precio": 1000,
-    "descripcion": "Jack-Jack McDonald's 2004. Jack-Jack posee en la espalda una cuerda que al girarla el muñeco empieza a temblar. Figura esta en excelente estado, dificil de conseguir sin detalles de pintura en la nariz. ",
+    "descripcion": "Jack-Jack McDonald's 2004. Jack-Jack posee en la espalda una cuerda que al girarla el muñeco empieza a temblar. Figura en excelente estado, dificil de conseguir sin detalles de pintura en la nariz. ",
     "puntuacion": 5,
     "imgs": "./imgs/Los Increibles/jack-jack-mc.png",
     "categoria": {
@@ -232,7 +232,7 @@
     "id": 20,
     "nombre": "Increible",
     "precio": 800,
-    "descripcion": "Increible, McDonald's 2004. El auto de los increibles es a retrofriccion que al rodarlo para atras y soltarlo, cuando lo hacemos chocar contra algo se abre. Figura en exelente estado.",
+    "descripcion": "Increible, McDonald's 2004. El auto de los increibles es a retrofriccion que al rodarlo para atras y soltarlo, cuando lo hacemos chocar contra algo se abre. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Los Increibles/increible-mc.png",
     "categoria": {
@@ -268,7 +268,7 @@
     "id": 23,
     "nombre": "Mickey",
     "precio": 1000,
-    "descripcion": "Mickey, McDonald's 2004. Mickey es una botella, uno le desenrosca el sombreo y puede llenar la botella. Figura en excelente estado. ",
+    "descripcion": "Mickey, McDonald's 2004. Mickey es una botella, uno le desenrosca el sombreo y puede llenarla. Figura en excelente estado. ",
     "puntuacion": 5,
     "imgs": "./imgs/Los 3 mosqueteros/mickey-mc.png",
     "categoria": {
@@ -280,7 +280,7 @@
     "id": 24,
     "nombre": "Donald",
     "precio": 800,
-    "descripcion": "Donald McDonald's 2004. Donalds es un pasa imagenes, uno al bajarle la mano las imagenes del centro van cambiando. Fugura en buen estado.",
+    "descripcion": "Donald McDonald's 2004. Donald es un pasa imagenes, uno al bajarle la mano las imagenes del centro van cambiando. Figura en buen estado.",
     "puntuacion": 3,
     "imgs": "./imgs/Los 3 mosqueteros/donald-mc.png",
     "categoria": {
@@ -292,7 +292,7 @@
     "id": 16,
     "nombre": "Goofy",
     "precio": 1000,
-    "descripcion": "Goofy, McDonald's 2004. Goofy es un silbato, al soplar de la parte del sombrer y estirar la parte de los zapatos podes hacer distintos ruidos. Figura en escelente estado.",
+    "descripcion": "Goofy, McDonald's 2004. Goofy es un silbato, al soplar de la parte del sombrero y estirar la parte de los zapatos podes hacer distintos sonidos. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Los 3 mosqueteros/goofy-mc.png",
     "categoria": {
@@ -304,7 +304,7 @@
     "id": 16,
     "nombre": "Minnie",
     "precio": 600,
-    "descripcion": "Minnie, McDonald's 2004. Minnie es un caleidoscopio, en la parte de la corona tiene un agujero para que uno mire por ahi y en la parte de la parte de abajo de la pollera podemos ver las imagenes. Figuraen buen estado, posee detalles de pintura en la corona.",
+    "descripcion": "Minnie, McDonald's 2004. Minnie es un caleidoscopio, en la parte de la corona tiene un agujero para que uno mire por ahi y en la parte de abajo podemos ver las imagenes. Figura en buen estado, posee detalles de pintura.",
     "puntuacion": 4,
     "imgs": "./imgs/Los 3 mosqueteros/minnie-mc.png",
     "categoria": {
@@ -316,7 +316,7 @@
     "id": 16,
     "nombre": "Daisy",
     "precio": 1000,
-    "descripcion": "Daisy McDonald's 2004. Daysi es un abanico, si uno tira para arriba del moño de tela que tiene en la cabeza podemos abrir el abanico. Fugira en excelente estado.",
+    "descripcion": "Daisy McDonald's 2004. Daisy es un abanico, si uno tira para arriba del moño de tela podemos abrir el abanico. Figura en excelente estado.",
     "puntuacion": 5,
     "imgs": "./imgs/Los 3 mosqueteros/daisy-mc.png",
     "categoria": {
